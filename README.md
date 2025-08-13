@@ -1,5 +1,11 @@
-**in the haggingface file**
-i just call Qwen/Qwen3-4B-Instruct-2507 model and give a promt. then print the result
+# Project Overview
 
-**in the embedding file**
-i embedded a documend and then give single and multiple queue. then perform a sematic search to it and find the score,  then print the line from the documents acheiving the highest score in the semantic search
+## HuggingFace File
+In this file, I call the **Qwen/Qwen3-4B-Instruct-2507** model, provide a prompt, and then print the result.
+
+## Embedding File
+In this file, I:
+1. Embed a set of documents.
+2. Provide single or multiple queries.
+3. Perform a **semantic search** to calculate similarity scores.
+4. Print the line(s) from the documents achieving the **highest similarity score**.
