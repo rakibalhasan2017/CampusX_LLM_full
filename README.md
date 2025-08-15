@@ -10,8 +10,8 @@ In this file, I:
 3. Perform a **semantic search** to calculate similarity scores.
 4. Print the line(s) from the documents achieving the **highest similarity score**.
 ## chatbot file
-create a chatbot
-save the history of the chat
-message is saved as a aimessage, humanmessage and systemmessage
+1.Create a chatbot
+2.save the history of the chat
+3.message is saved as a aimessage, humanmessage and systemmessage
 ## prompts file
 learn to make prompts template
