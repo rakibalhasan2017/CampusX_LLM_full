@@ -16,3 +16,8 @@ In this file, I:
 3. message is saved as an aimessage, humanmessage, and systemmessage
 ## prompts file
 learn to make a prompts template
+
+## sequential_chain, parallel_chain, conditional_chain files
+In this file, I:
+1.learn how to use the chain method.
+2. explore the sequential, parallel, conditional chain
