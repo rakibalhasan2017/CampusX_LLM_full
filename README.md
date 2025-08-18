@@ -21,3 +21,9 @@ learn to make a prompts template
 In this file, I:
 1.learn how to use the chain method.
 2. explore the sequential, parallel, conditional chain
+
+## TextLoader, PdfLoader, WebsiteURL Loader file
+In these file:
+1. I explore how all the loaders work
+2. load the contecnt and then create prompt based on the content
+3. ask llm based on the content
