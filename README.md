@@ -19,11 +19,16 @@ learn to make a prompts template
 
 ## sequential_chain, parallel_chain, conditional_chain files
 In this file, I:
-1.learn how to use the chain method.
-2. explore the sequential, parallel, conditional chain
+1. learn how to use the chain method.
+2. Explore the sequential, parallel, and conditional chain
 
 ## TextLoader, PdfLoader, WebsiteURL Loader file
-In these file:
+In these files:
 1. I explore how all the loaders work
-2. load the contecnt and then create prompt based on the content
-3. ask llm based on the content
+2. Load the content and then create a prompt based on the content
+3. Ask LLM based on the content
+
+## Charactersplitter, recursivesplitter, semantic-meaning splitter
+In this file:
+1. we explore different cases of splitter
+2. split code, text, document based on different method
