@@ -44,3 +44,4 @@ It's a project while I implement the full RAG pipeline. In this project:
 7. find the related_docs using the retrival
 8. then take a prompt tempalate
 9. give the related_docs and query to an LLM and print the output
+10. last i give it a UI using Streamlit. now, it looks like a website
