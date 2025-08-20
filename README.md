@@ -32,3 +32,15 @@ In these files:
 In this file:
 1. we explore different cases of splitter
 2. split code, text, document based on different method
+
+## YouTube_ChatBot file
+It's a project while I implement the full RAG pipeline. In this project:
+1. First, I take a YouTube video ID as an input
+2. Then I convert it to a Transcript
+3. I divide the transcript into chunks
+4. embedding to each chunk
+5. save the embedding to ChromaDb
+6. Then add retrival
+7. find the related_docs using the retrival
+8. then take a prompt tempalate
+9. give the related_docs and query to an LLM and print the output
