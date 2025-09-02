@@ -45,3 +45,9 @@ It's a project while I implement the full RAG pipeline. In this project:
 8. then take a prompt tempalate
 9. give the related_docs and query to an LLM and print the output
 10. last i give it a UI using Streamlit. now, it looks like a website
+
+##agents.py file
+1. explore custom tools and build in tools
+2. develop an agents which search in the web by duckduckgo and then get and result
+3. then the result will be summarized and then translate the summary to bangla
+4. all the work is done by agents
