@@ -39,15 +39,19 @@ It's a project while I implement the full RAG pipeline. In this project:
 2. Then I convert it to a Transcript
 3. I divide the transcript into chunks
 4. embedding to each chunk
-5. save the embedding to ChromaDb
-6. Then add retrival
-7. find the related_docs using the retrival
-8. then take a prompt tempalate
-9. give the related_docs and query to an LLM and print the output
-10. last i give it a UI using Streamlit. now, it looks like a website
+5. Save the embedding to ChromaDb
+6. Then add retrieval
+7. Find the related_docs using the retrieval
+8. Then take a prompt template
+9. Give the related_docs and query to an LLM and print the output
+10. Last i give it a UI using Streamlit. now, it looks like a website
 
 ## Agents.py file
-1. explore custom tools and build in tools
-2. develop an agents which search in the web by duckduckgo and then get and result
-3. then the result will be summarized and then translate the summary to bangla
+1. Explore custom tools and built-in tools
+2. Develop an agents that search on the web by DuckDuckGo and then get a result
+3. Then the result will be summarized, and then translated the summary to Bangla
 4. all the work is done by agents
+
+## sending_email_agents.py
+1. Build an agent to send an email
+2. Use SendGrid to send the email
